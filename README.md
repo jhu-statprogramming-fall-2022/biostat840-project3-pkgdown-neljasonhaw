@@ -15,6 +15,7 @@ Original Authors: Jose C. Pinheiro and Douglas M. Bates (1997-2005), R Core Team
 https://github.com/cran/nlme
 
 # Location of Deployed Package Website
+https://jhu-statprogramming-fall-2022.github.io/biostat840-project3-pkgdown-neljasonhaw
 
 # Customizations to pkgdown website
 
