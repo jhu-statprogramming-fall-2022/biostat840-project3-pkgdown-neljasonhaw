@@ -16,8 +16,13 @@ Authors@R: c(person("José", "Pinheiro", role = "aut", comment = "S version"),
 Contact: see 'MailingList'
 Description: Fit and compare Gaussian linear and nonlinear mixed-effects models.
 Depends: R (>= 3.5.0)
-Imports: graphics, stats, utils, lattice
-Suggests: Hmisc, MASS, SASmixed
+Imports: graphics, stats, utils, lattice, ggplot2, dplyr, purrr, janitor, readr
+Suggests: 
+    Hmisc,
+    knitr,
+    MASS,
+    rmarkdown,
+    SASmixed
 LazyData: yes
 Encoding: UTF-8
 License: GPL (>= 2)
@@ -38,3 +43,4 @@ Author: José Pinheiro [aut] (S version),
 Maintainer: R Core Team <R-core@R-project.org>
 Repository: CRAN
 Date/Publication: 2022-10-10 14:15:09 UTC
+VignetteBuilder: knitr
