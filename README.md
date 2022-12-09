@@ -28,7 +28,7 @@ https://jhu-statprogramming-fall-2022.github.io/biostat840-project3-pkgdown-nelj
 
 # Installation
 ```r
-remotes::install_github(repo = "jhu-statprogramming-fall-2022/biostat840-project2-neljasonhaw")
+remotes::install_github(repo = "jhu-statprogramming-fall-2022/biostat840-project3-pkgdown-neljasonhaw")
 ```
 
 ## List of Exported Functions (Used in New Vignette)
